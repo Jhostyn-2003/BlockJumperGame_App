@@ -4,4 +4,6 @@ jugar e interactuar con el lenguaje JavaScript, Python, Bootstrap, CSS, HTML y F
 
 Nombre: Jhostyn Gavilanez
 
+Juego realizado con javascript y adaptado a los otros los lenguajes de Python mediante el uso de flask. 
+
 
