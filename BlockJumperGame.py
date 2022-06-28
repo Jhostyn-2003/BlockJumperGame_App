@@ -29,7 +29,7 @@ def index():
 
 """
 Este es el main principal de nuestro aplicacion Game, se ejecuta mediante el localhost, que nos 
-va a permitir realizar dicha conexion. 
+va a permitir realizar dicha conexion.   
 """
 if __name__ == "__main__":
      app.run(debug=True)

@@ -2,7 +2,7 @@
 // Fecha: 27/06/2022
 
 // Se declaran las variable a utilizarse en canvas la parte grafica 
-//este el del bloque de canvas altura y ancho 
+//este el del bloque de canvas altura y ancho  
 var canvasWidth = 600;
 var canvasHeight = 400;
 
